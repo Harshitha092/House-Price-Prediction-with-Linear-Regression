@@ -36,6 +36,8 @@ Features Include:
 
 The dataset contains **no missing values or duplicates**, making it suitable for regression analysis without extensive cleaning.
 
+Note: The dataset is included in this repository for learning and reproducibility purposes.
+
 ---
 
 ## 🛠 Tools & Libraries Used
