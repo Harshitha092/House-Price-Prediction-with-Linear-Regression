@@ -153,3 +153,9 @@ The Linear Regression model achieved reasonable predictive performance and showe
 While linear regression captured a substantial portion of the price variation, future improvements could include adding more location-specific or market-driven features, applying feature transformations, or exploring non-linear models.
 
 ---
+
+## 👩‍💻 Author  
+**Harshitha Salian**  
+Analytics Professional | SQL · Power BI · Excel · Python  
+📍 Dubai, UAE | [LinkedIn](https://www.linkedin.com/in/salianharshitha/) | [GitHub](https://github.com/Harshitha092)
+
